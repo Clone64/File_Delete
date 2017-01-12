@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 12 13:38:58 2017
 
-@author: jordan
+@author: Jordan Lookabill
 """
 
 import os
