@@ -7,7 +7,9 @@ Created on Thu Jan 12 13:38:58 2017
 """
 
 import os
+
 path = ''
+
 def deleteExt(path):
     count = 0
     fileCount = 0
